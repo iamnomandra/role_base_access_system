@@ -82,7 +82,7 @@ The system supports multiple roles with different access levels:
 git clone https://github.com/iamnomandra/role_base_access_system.git
 ```
 
-## ⚙️ Setup
+## 🎨 Setup
 
 - **`Entities`**
 
@@ -267,6 +267,11 @@ var mPermissions = await mPermission.GetPermissions(mUserId, mUrl);
 
 ![Screenshot01](https://github.com/iamnomandra/role_base_access_system/blob/main/Screenshot%202026-04-18%20125717.png)
 
+
+### 💬 Questions? Contributions?
+
+- Feel free to open an **Issue** or start a **Discussion** on GitHub.
+  
 ## 📜 License
 
  - MIT License
